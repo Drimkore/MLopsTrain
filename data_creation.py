@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv('/content/cars_moldova_clean.csv', delimiter = ',')
+df = pd.read_csv('cars_moldova_clean.csv', delimiter = ',')
 
 df['Target'] = np.where((df['Transmission']=='Automatic'), 1, 0)
 df = df.drop(['Transmission'], axis=1)
