@@ -10,5 +10,7 @@
 ![docker](https://github.com/Drimkore/MLopsTrain/blob/main/docker.png)
 
 # Управление данными(4 задание)
+##Переключение между версиями датасета
 ![Переключение между версиями датасета](https://github.com/Drimkore/MLopsTrain/blob/main/oWTNqCBhN2s.jpg)
+##Результат переключения между версиями датасета
 ![Результат переключения между версиями датасета](https://github.com/Drimkore/MLopsTrain/blob/main/oWTNqCBhN2s.jpg)
