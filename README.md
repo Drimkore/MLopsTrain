@@ -11,6 +11,6 @@
 
 # Управление данными(4 задание)
 ## Переключение между версиями датасета
-![Переключение между версиями датасета](https://github.com/Drimkore/MLopsTrain/blob/main/oWTNqCBhN2s.jpg)
+![Переключение между версиями датасета](https://github.com/Drimkore/MLopsTrain/blob/main/sQfFliESmxk.jpg)
 ## Результат переключения между версиями датасета
-![Результат переключения между версиями датасета]([https://github.com/Drimkore/MLopsTrain/blob/main/oWTNqCBhN2s.jpg](https://github.com/Drimkore/MLopsTrain/blob/main/sQfFliESmxk.jpg))
+![Результат переключения между версиями датасета](https://github.com/Drimkore/MLopsTrain/blob/main/oWTNqCBhN2s.jpg)
